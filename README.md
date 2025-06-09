@@ -68,11 +68,11 @@ Jika kamu tertarik mengembangkan versi web atau mobile-nya, atau ingin menambahk
 
 📌 **FIU Booking App masih dalam tahap pengembangan aktif.**
 
-Kami menyadari bahwa masih banyak aspek yang dapat dioptimalkan, baik dari segi antarmuka pengguna, keamanan, maupun pengalaman pengguna secara keseluruhan. Karena itu:
+Saya menyadari bahwa masih banyak aspek yang dapat dioptimalkan, baik dari segi antarmuka pengguna, keamanan, maupun pengalaman pengguna secara keseluruhan. Karena itu:
 
-> 💡 **Kami terbuka terhadap masukan, kritik, dan kontribusi dari siapa saja yang ingin menjadikan sistem ini lebih baik ke depannya.**
+> 💡 **Saya terbuka terhadap masukan, kritik, dan kontribusi dari siapa saja yang ingin menjadikan sistem ini lebih baik ke depannya.**
 
-Jika Anda menemukan **bug**, **error**, atau ada ide fitur tambahan yang bisa diterapkan, silakan hubungi kami atau buat issue baru di repositori ini.
+Jika Anda menemukan **bug**, **error**, atau ada ide fitur tambahan yang bisa diterapkan, silakan hubungi Saya atau buat issue baru di repositori ini.
 
 🙏 Mohon maaf atas segala keterbatasan dan kekurangan yang mungkin ditemukan dalam versi ini. Setiap baris kode ditulis dengan semangat belajar, inovasi, dan keinginan untuk menciptakan solusi nyata.
 
