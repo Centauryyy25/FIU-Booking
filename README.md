@@ -85,5 +85,5 @@ Jika Anda menemukan **bug**, **error**, atau ada ide fitur tambahan yang bisa di
 
 > Created with 💻 by Ilham Ahsan Saputra  
 > Mahasiswa Informatika | Junior Network Engineer  
-> ✉️ Email: centauryy@gmail.com  
+> ✉️ Linkedin : https://www.linkedin.com/in/ilham-ahsan-saputra/
 
